@@ -1,0 +1,12 @@
+{
+    "ip": "127.0.0.1",
+    "port": 3306,
+    "user_name": "root",
+    "password": "Xiaobei123456",
+    "dp_name": "test_db",
+    "min_size": 100,
+    "max_size": 1024,
+    "max_idel_time": 5000,
+    "time_out": 100
+}
+

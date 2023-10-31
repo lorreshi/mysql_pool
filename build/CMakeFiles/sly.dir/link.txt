@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -g -Ofast -std=c++11 -shared -Wl,-soname,libsly.so -o libsly.so CMakeFiles/sly.dir/sly/connection_pool.cpp.o CMakeFiles/sly.dir/sly/mysql_conn.cpp.o   -L/home/ubuntu/jsoncpp-1.9.5/build/lib 

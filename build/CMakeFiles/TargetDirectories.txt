@@ -1,0 +1,4 @@
+/home/ubuntu/code/connection_pool/build/CMakeFiles/sly.dir
+/home/ubuntu/code/connection_pool/build/CMakeFiles/mysql_pool.dir
+/home/ubuntu/code/connection_pool/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/connection_pool/build/CMakeFiles/rebuild_cache.dir
